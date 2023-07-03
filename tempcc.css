@@ -1,0 +1,29 @@
+input {
+  border-radius: 15px;
+  border: 2px dashed #3c4043;
+  font-size: 16px;
+  line-height: 1;
+  outline: none;
+  font-weight: bold;
+  padding: 5px 10px 5px 10px;
+  background-color: light-blue;
+}
+  
+p {
+  color: green;
+  font-weight: bold;
+  ;
+  
+}
+input:focus {
+  border: 5px solid ;
+  background-color: lightblue;
+}
+form {
+  padding:25px;
+margin:16px;
+width:450px;
+height:auto;
+box-shadow: 20px 20px 50px 1px #387e1c inset;
+
+}
